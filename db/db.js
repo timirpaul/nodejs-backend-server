@@ -1,11 +1,11 @@
 
 const mongoose = require("mongoose")
-const env = require("dotenv")
+//const env = require("dotenv")
 
-env.config();
+//env.config();
 
-const dbUser = process.env.DB_USERNAME  
-const dbPass = process.env.DB_PASSWORD 
+//const dbUser = process.env.DB_USERNAME  
+//const dbPass = process.env.DB_PASSWORD 
 
 
   //  const url = `mongodb://localhost:27017/new`
